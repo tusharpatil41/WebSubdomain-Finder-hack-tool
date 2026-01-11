@@ -46,6 +46,7 @@ git clone https://github.com/tusharpatil41/WebSubdomain-Finder-hack-tool.git
 
 # Navigate to the directory
 cd WebSubdomain-Finder-hack-tool
+cd subdomain_finder
 
 # Run the tool
 python Sub-Domain-Finder.py
