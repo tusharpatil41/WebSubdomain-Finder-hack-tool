@@ -15,6 +15,7 @@ Live Status Verification: Checks for real-time HTTP status codes (e.g., 200 OK, 
 
 # 1. Requirements
   Python 3.x
+  
   requests library
 
 # Install dependencies
