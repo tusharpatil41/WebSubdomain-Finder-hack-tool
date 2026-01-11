@@ -30,7 +30,7 @@ def show_logos():
     print(f"[!] Target Setting: Subdomain Enumeration + IP Geo + Header Analysis")
 
 def get_detailed_info(subdomain):
-    """सापडलेल्या सबडोमेनची सविस्तर माहिती काढणे"""
+    
     url = f"http://{subdomain}"
     try:
         # 1. HTTP Status and Headers
