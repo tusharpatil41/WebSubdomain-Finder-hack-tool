@@ -13,35 +13,35 @@ Live Status Verification: Checks for real-time HTTP status codes (e.g., 200 OK, 
 
 # 🛠️ Installation & Usage
 
-1. Requirements
-Python 3.x
-requests library
+# 1. Requirements
+  Python 3.x
+  requests library
 
-Install dependencies
+# Install dependencies
 pip install requests
 
-2. Setup (Termux or PC)
+# 2. Setup (Termux or PC)
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/tusharpatil41/WebSubdomain-Finder-hack-tool.git
 
-# Enter the directory
+Enter the directory
 cd WebSubdomain-Finder-hack-tool
 
-# Run the tool
+Run the tool
 python Sub-Domain-Finder.py
 
 
-# 📊 Technical Specifications
+📊 Technical Specifications
 Language: Python 3
 Dependencies: requests, socket, urllib, datetime
 Data Source: Integrated with IP-API for real-time geolocation and network intelligence.
 Portability: Fully compatible with PC (Windows/Linux) and Mobile (Termux).
 
 
-# 👤 Author
+👤 Author
 Tushar Patil - Offensive Security Researcher & Tool Developer
 
 
-# ⚠️ Disclaimer
+⚠️ Disclaimer
 This tool is for educational purposes only. Do not use it on targets without prior authorization. The author is not responsible for any misuse or legal consequences of this tool.
