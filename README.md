@@ -1,9 +1,9 @@
-SUBDOMAIN FINDER (Tushar Patil Edition) 
+# SUBDOMAIN FINDER (Tushar Patil Edition) 
 
 🛡️ SUBDOMAIN FINDER is a professional Python-based security tool designed for the reconnaissance and infrastructure mapping phase of a penetration test.
 It automates the discovery of hidden subdomains and gathers deep technical intelligence about each discovered asset.
 
-Features
+# Features
 
 Subdomain Enumeration: Rapidly checks for active subdomains using an optimized brute-force wordlist.
 IP Geolocation Tracking: Identifies the physical location of each subdomain's server, including Country, City, and Timezone.
