@@ -69,4 +69,11 @@ This tool is developed strictly for educational and ethical security testing pur
 Do NOT use this tool on any system or domain without explicit prior authorization.
 
 The author is not responsible for any misuse or legal consequences arising from the use of this tool.
+```
+## 📸 Screenshot
+
+<img width="1054" height="871" alt="image" src="https://github.com/user-attachments/assets/fe742c37-7fc1-415b-941d-45bef59fd760" />
+<img width="787" height="909" alt="image" src="https://github.com/user-attachments/assets/e09f95af-833d-4244-9f5f-1949488e425f" />
+
+
 
