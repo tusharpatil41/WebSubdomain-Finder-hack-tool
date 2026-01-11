@@ -24,16 +24,19 @@ pip install requests
 # 2. Setup (Termux or PC)
 
 Clone the repository
+
 git clone https://github.com/tusharpatil41/WebSubdomain-Finder-hack-tool.git
 
 Enter the directory
+
 cd WebSubdomain-Finder-hack-tool
 
 Run the tool
+
 python Sub-Domain-Finder.py
 
 
-📊 Technical Specifications
+# 📊 Technical Specifications
 Language: Python 3
 Dependencies: requests, socket, urllib, datetime
 Data Source: Integrated with IP-API for real-time geolocation and network intelligence.
