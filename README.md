@@ -5,9 +5,13 @@ SUBDOMAIN FINDER is a professional Python-based security tool designed for the r
 # 🚀 Features
 
 Subdomain Enumeration: Rapidly checks for active subdomains using an optimized brute-force wordlist.
+
 IP Geolocation Tracking: Identifies the physical location of each subdomain's server, including Country, City, and Timezone.
+
 HTTP Header Retrieval: Extracts critical server information like Server software (Nginx, Apache, etc.) and technology stacks.
+
 ISP & Organization Mapping: Detects the Internet Service Provider (ISP) and the organization hosting the subdomain (e.g., Cloudflare, AWS, Google).
+
 Live Status Verification: Checks for real-time HTTP status codes (e.g., 200 OK, 403 Forbidden) to identify active targets.
 
 
@@ -20,6 +24,7 @@ Live Status Verification: Checks for real-time HTTP status codes (e.g., 200 OK, 
 
 # Install dependencies
 pip install requests
+
 
 # 2. Setup (Termux or PC)
 
@@ -38,9 +43,13 @@ python Sub-Domain-Finder.py
 
 # 📊 Technical Specifications
 Language: Python 3
+
 Dependencies: requests, socket, urllib, datetime
+
 Data Source: Integrated with IP-API for real-time geolocation and network intelligence.
+
 Portability: Fully compatible with PC (Windows/Linux) and Mobile (Termux).
+
 
 
 👤 Author
