@@ -49,7 +49,7 @@ cd WebSubdomain-Finder-hack-tool
 cd subdomain_finder
 
 # Run the tool
-python Sub-Domain-Finder.py
+ python subdomain_finder.py
 
 
 📊 Technical Specifications
